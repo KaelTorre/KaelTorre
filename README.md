@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KaelTorre/KaelTorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Kael Torre
 
-Here are some ideas to get you started:
+**Desarrollador Full Stack | Cloud & DevOps | DBA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaeltorre)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaeltorre@gmail.com)
+
+</div>
+
+---
+
+### 🚀 Sobre mí
+
+Estudiante de Ingeniería de Sistemas y Desarrollador Full Stack con un sólido enfoque en arquitectura cloud y bases de datos relacionales (SQL). 
+
+* 💻 Combino habilidades en el diseño de interfaces modernas, construcción de APIs robustas y automatización de despliegues.
+* ⚙️ Orientado a la optimización de procesos y acostumbrado a trabajar bajo metodologías ágiles (Scrum).
+* 🌱 Actualmente profundizando en: **Arquitectura de Microservicios y Soluciones Cloud Nativas**.
+* ⚡ Dato curioso: Me apasiona transformar problemas complejos en soluciones de software escalables y eficientes.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+#### 💻 Desarrollo Backend & Bases de Datos
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+#### 🎨 Desarrollo Frontend
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaelTorre&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de Kael" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaelTorre&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+---
+
+<div align="center">
+  <i>🚀 ¡Gracias por visitar mi perfil!</i>
+</div>
