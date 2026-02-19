@@ -45,16 +45,6 @@ Estudiante de Ingeniería de Sistemas y Desarrollador Full Stack con un sólido 
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaelTorre&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=1" alt="Estadísticas de Kael" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaelTorre&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Lenguajes más usados" />
-</div>
-
----
-
 <div align="center">
   <i>🚀 ¡Gracias por visitar mi perfil!</i>
 </div>
